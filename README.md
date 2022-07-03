@@ -48,7 +48,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > npm start
 ```
 
-### `—◉ ✔️ ACTIVAR EN CASO DE DETENERSE ✔️`
+### `—◉ ✔️ ACTIVAR EN CASO DE DETENERSE EN TERMUX ✔️`
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
@@ -56,9 +56,18 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > npm start
 ```
 
-### `—◉ 👽 OBTENER OTRO CODIGO QR 👽`
+### `—◉ 👽 OBTENER OTRO CODIGO QR EN TERMUX 👽`
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+- Si el Bot esta activo:
+> Simbolo de ctrol en termux mas la letra z en tu teclado hasta que salga algo como
+- TheMystic-Bot-MD-V2 $
+> cd 
+> cd TheMystic-Bot-MD-V2
+> rm -rf sessions
+> npm start
+
+- Si el Bot esta inactivo:
 > cd 
 > cd TheMystic-Bot-MD-V2
 > rm -rf sessions
