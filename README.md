@@ -60,7 +60,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 - Si el Bot esta activo:
-> Simbolo de ctrol en termux mas la letra z en tu teclado hasta que salga algo como
+> Simbolo de ctrol en termux mas la letra z en tu teclado 
+hasta que salga algo como esto en color verde:
 - TheMystic-Bot-MD-V2 $
 > cd 
 > cd TheMystic-Bot-MD-V2
