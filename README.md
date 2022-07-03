@@ -1,5 +1,7 @@
 # `🤖 𝐓𝐡𝐞 𝐌𝐲𝐬𝐭𝐢𝐜 - 𝐁𝐨𝐭 - 𝐕𝟐 🤖`
 
+## `ESTA VERSION DEL BOT ESTA FUNCIONAL, PERO SE PAUSARA EL MANTENIMIENTO`
+
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTAME 👑`
 <a href="http://wa.me/5219992095479" target="blank"><img src="https://img.shields.io/badge/BRUNO_SOBRINO-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > NO BOT
