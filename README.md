@@ -39,8 +39,12 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
+> pkg install yarn
 > git clone https://github.com/BrunoSobrino/TheMystic-Bot-MD-V2
 > cd TheMystic-Bot-MD-V2
+> yarn install
+> npm install
+> npm update
 > npm start
 ```
 
