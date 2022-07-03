@@ -55,7 +55,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
 > cd TheMystic-Bot-MD-V2
-> rm -rf session.data.json
+> rm -rf sessions
 > npm start
 ```
 
