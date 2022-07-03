@@ -1,7 +1,7 @@
 {
-    "name": "games-wabot",
+    "name": "TheMystic-Bot-MD-V2",
     "version": "2.0.0",
-    "description": "Customizable WhatsApp Bot",
+    "description": "Subscribete al canal de YT The Shadow Borkers",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -26,16 +26,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/BochilGaming/games-wabot",
+    "homepage": "https://github.com/BrunoSobrino/TheMystic-Bot-MD-V2",
     "author": {
-        "name": "BochilGaming"
+        "name": "BrunoSobrino"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/BochilGaming/games-wabot.git"
+        "url": "git+https://github.com/BrunoSobrino/TheMystic-Bot-MD-V2.git"
     },
     "bugs": {
-        "url": "https://github.com/BochilGaming/games-wabot/issues"
+        "url": "https://github.com/BrunoSobrino/TheMystic-Bot-MD-V2/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
